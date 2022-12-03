@@ -12,3 +12,9 @@ libtorch-playground
 ### Notes
 - Using official dynamic-link library
   - [Start Locally | PyTorch](https://pytorch.org/get-started/locally/)
+- in Python, pytorch installation is:
+  ```txt
+  torch==1.12.1
+  torchvision==0.13.1
+  torchaudio==0.12.1
+  ```
